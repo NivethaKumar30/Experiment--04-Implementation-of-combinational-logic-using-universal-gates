@@ -60,10 +60,37 @@ assign S = ~(P|Q|R);
 assign F = ~S;
 endmodule
 ```
-## RTL realization
 
 ## Output:
-## RTL
-## Timing Diagram
+
+Using NAND Gate
+
+RTL realization
+
+![i1](https://user-images.githubusercontent.com/119559844/232985189-951ec343-a3f7-48eb-b9ee-9e1093af1b61.png)
+
+Truth Table:
+
+![i2](https://user-images.githubusercontent.com/119559844/232985200-44096dbd-7132-44b9-8332-18b9ae7b1f3f.png)
+
+Timing Diagram
+
+![i3](https://user-images.githubusercontent.com/119559844/232985213-2442ade5-e2af-46b4-a32f-cab16d1c7f5b.png)
+
+Using NOR Gate
+
+RTL realization
+
+![i4](https://user-images.githubusercontent.com/119559844/232985233-7d346aa2-56a9-4ab4-ab83-7e241ac7b86d.png)
+
+Truth Table:
+
+![i5](https://user-images.githubusercontent.com/119559844/232985238-7d381321-80d7-4bf1-8554-73ae85238dfa.png)
+
+Timing Diagram
+
+![i6](https://user-images.githubusercontent.com/119559844/232985253-ebc58e54-1464-44f6-9bf5-296ec781a7aa.png)
+
 ## Result:
+
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
