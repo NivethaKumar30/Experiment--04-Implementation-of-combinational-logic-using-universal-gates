@@ -63,33 +63,26 @@ endmodule
 
 ## Output:
 
-Using NAND Gate
+Output:
+RTL:
+FOR F1:
 
-RTL realization
+![1](https://github.com/NivethaKumar30/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/assets/119559844/010ffc81-4bd1-40b1-b1c4-48d92075fc17)
 
-![i1](https://user-images.githubusercontent.com/119559844/232985189-951ec343-a3f7-48eb-b9ee-9e1093af1b61.png)
+For F2:
 
-Truth Table:
+![2](https://github.com/NivethaKumar30/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/assets/119559844/b84a5cd8-0306-411a-a8d8-bf5a19175b3c)
 
-![i2](https://user-images.githubusercontent.com/119559844/232985200-44096dbd-7132-44b9-8332-18b9ae7b1f3f.png)
+Timing Diagram:
 
-Timing Diagram
+For F1:
 
-![i3](https://user-images.githubusercontent.com/119559844/232985213-2442ade5-e2af-46b4-a32f-cab16d1c7f5b.png)
+![3](https://github.com/NivethaKumar30/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/assets/119559844/8a0fcee4-f1f5-480d-8a5a-7d2e7d21ccdd)
 
-Using NOR Gate
+For F2:
 
-RTL realization
+![4](https://github.com/NivethaKumar30/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/assets/119559844/4c33dabb-8e35-471b-9950-aaa0d2b5738f)
 
-![i4](https://user-images.githubusercontent.com/119559844/232985233-7d346aa2-56a9-4ab4-ab83-7e241ac7b86d.png)
-
-Truth Table:
-
-![i5](https://user-images.githubusercontent.com/119559844/232985238-7d381321-80d7-4bf1-8554-73ae85238dfa.png)
-
-Timing Diagram
-
-![i6](https://user-images.githubusercontent.com/119559844/232985253-ebc58e54-1464-44f6-9bf5-296ec781a7aa.png)
 
 ## Result:
 
