@@ -74,4 +74,4 @@ For F2:
 
 ## Result:
 
-Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
+TThus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
