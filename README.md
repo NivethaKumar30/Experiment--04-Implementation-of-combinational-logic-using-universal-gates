@@ -54,7 +54,8 @@ Output:
 RTL:
 FOR F1:
 
-![1](https://github.com/NivethaKumar30/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/assets/119559844/010ffc81-4bd1-40b1-b1c4-48d92075fc17)
+![image](https://github.com/NivethaKumar30/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/assets/119559844/f071d1a7-5015-4f6a-8d56-c416fe018274)
+
 
 For F2:
 
