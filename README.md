@@ -1,4 +1,4 @@
-# Experiment--04-Implementation-of-combinational-logic-using-universal-gates
+# Experiment--02-Implementation-of-combinational-logic-using-universal-gates
 Implementation of combinational logic using universal-gates
  
 ## AIM:
@@ -35,32 +35,19 @@ Developed by: NIVETHA K
 RegisterNumber: 212222230102
 ```
 
-Using NAND Operation:
 ```
-module comb1(A,B,C,D,F);
-input A,B,C,D;
-output F;
-wire P,Q,R;
-assign P = C&(~B)&(~A);
-assign Q = D&(~C)&(~A);
-assign R = (~C)&B&(~A);
-assign F = (~P&~Q&~R);
+module ff(a,b,c,d,f1);
+input a,b,c,d;
+output f1;
+assign f1 = (~b&~d) | (~a&b&d) | (a&b&~c);
 endmodule
-```
-Using NOR Operation:
-```
-module comb2(A,B,C,D,F);
-input A,B,C,D;
-output F;
-wire P,Q,R,S;
-assign P = C&(~B)&A;
-assign Q = D&(~C)&A;
-assign R = C&(~B)&A;
-assign S = ~(P|Q|R);
-assign F = ~S;
-endmodule
-```
 
+module de (w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2 = (x&y)|(w&y)|(~y&z);
+endmodule 
+```
 ## Output:
 
 Output:
